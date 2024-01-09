@@ -3,7 +3,6 @@ struct Student {
     char name[50];
     float marks;
 };
-
 int main() {
     FILE *file;
     struct Student student;
